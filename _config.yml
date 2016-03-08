@@ -1,0 +1,28 @@
+name: jessewilliams
+favicon: null
+layout_spectrum: 0.7406899046618491
+typography_spectrum: 0.46140539296902716
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.28217691858299077
+  lightness: 0.13932912098243833
+  saturation: 0.019275509053841233
+  rhythmicContrast: 0.1933865169994533
+purpose: []
